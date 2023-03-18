@@ -1,0 +1,36 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+body {
+  text-align: center;
+  padding: 0px 0px;
+  background: #000000;
+  font-family: 'Fredericka the Great', cursive;
+}
+/*#timer_parents{
+  text-align: center;
+  padding: 70px 50px;
+  background: #0D1A29;
+  font-family: "Helvetica Neue", "Open Sans", helvetica, arial, sans-serif;
+}
+*/
+#timer {
+  font-size: 5em;
+  font-weight: 100;
+  color: #fff;
+  text-shadow: 0 0 20px #FFFFFF;
+}
+#timer div {
+  display: inline-block;
+  min-width: 100px;
+}
+#timer div span {
+  color: #FFFFFF;
+  display: block;
+  font-size: .30em;
+  font-weight: 400;
+}
